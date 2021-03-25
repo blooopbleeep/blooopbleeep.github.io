@@ -1,7 +1,5 @@
 // JavaScript source code
 
-//hi guys
-
 draw = function() {
     strokeWeight(2);
     stroke(255, 255, 255);
